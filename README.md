@@ -37,7 +37,7 @@ REST API для управления мероприятиями, тегами и
 
 ```bash
 git clone https://github.com/SteSha28/events_service.git
-cd events-api
+cd events_service
 ```
 
 ### 2. Создай и настрой .env файл
