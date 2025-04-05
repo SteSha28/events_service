@@ -36,7 +36,7 @@ REST API для управления мероприятиями, тегами и
 ### 1. Клонируй репозиторий
 
 ```bash
-git clone https://github.com/your-username/events-api.git
+git clone https://github.com/SteSha28/events_service.git
 cd events-api
 ```
 
